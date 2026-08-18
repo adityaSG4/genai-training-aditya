@@ -1,0 +1,1 @@
+print("Hello! Welcome to your journey as an AI engineering trainee.")
